@@ -1,0 +1,4 @@
+$1 has changed from $2 to $3. A change of x%.
+$1 has changed from $2 to $3
+$1 has changed by x% (Note: don't use $2, $3)
+$1 has changed by x% (i.e. from $2 to $3)
